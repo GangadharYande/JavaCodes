@@ -98,8 +98,40 @@ Don't forget to star this repo if it was helpful to you!
 
 <h1 align=center> THANK YOU FOR CONTRIBUTING✨ </h1>
 
+<p>List of actively participating individulas in open source contributions</p>
+<p align="center">
+  <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
+</p>
+
 - Add your own details to the contributor list
 - Make a Pull Request
 - [Steps to add yourself to the contributers list](https://github.com/GangadharYande/JavaCodes/blob/main/CONTRIBUTING.md)
 
+## Contributors 😊
+
+Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+    <tbody>
+        <tr>
+          <td align="center">
+                <a href="https://github.com/sujana-kamasany">
+                    <img src="https://avatars.githubusercontent.com/u/67040886?v=4" width="100px;" alt="Sujana Kamasany"/>
+                    <br />
+                    <sub><b>Sujana Kamasany</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/GangadharYande">
+                    <img src="https://avatars.githubusercontent.com/u/36783781?s=96&v=4" width="100px;" alt="Gangadhar Yande"/>
+                    <br />
+                    <sub><b>Gangadhar Yande</b></sub>
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
