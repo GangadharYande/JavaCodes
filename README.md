@@ -97,8 +97,9 @@ Don't forget to star this repo if it was helpful to you!
 
 
 <h1 align=center> THANK YOU FOR CONTRIBUTING✨ </h1>
-<p align="center">	
-<a href="https://github.com/sujana-kamasany/javacodes/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sujana-kamasany/javacodes" />
-</a>
+
+- Add your own details to the contributor list
+- Make a Pull Request
+- [Steps to add yourself to the contributers list](https://github.com/GangadharYande/JavaCodes/blob/main/CONTRIBUTING.md)
+
 
